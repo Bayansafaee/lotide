@@ -21,4 +21,4 @@ const eqArrays = (arr1, arr2) => {
 // assertEqual(eqArrays(["1", "2", "3"], ["1", "2", 3]), false); // => should PASS
 // assertEqual(eqArrays(["1", "2"], ["1", "2", "3"]), false); // => should PASS
 
-module.export = eqArrays
+module.exports = eqArrays;
