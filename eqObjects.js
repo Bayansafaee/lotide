@@ -33,4 +33,4 @@ const eqObjects = (obj1, obj2) => {
 // assertEqual(eqObjects(cd, cd2), false);
 
 
-module.export = eqObjects;
+module.exports = eqObjects;
