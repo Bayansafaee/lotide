@@ -16,4 +16,4 @@ const assertArraysEqual = (arr1, arr2) => {
 // assertArraysEqual(["1", "2", "3"], ["1", "2", 3]) // => should FAIL
 // assertArraysEqual(["1", "2"], ["1", "2", "3"]) // => should FAIL
 
-module.exports = assertArraysEqual; 
+module.exports = assertArraysEqual;
